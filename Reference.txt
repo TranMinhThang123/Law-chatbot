@@ -1,0 +1,4 @@
+reference:
+raw data:https://github.com/undertheseanlp/resources/tree/master/resources/CP_Vietnamese-VLC
+preprocess step for data:https://github.com/undertheseanlp/resources/tree/master/resources/CP_Vietnamese-VLC
+paper: https://aclanthology.org/2023.emnlp-industry.70.pdf
